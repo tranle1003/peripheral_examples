@@ -1691,7 +1691,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series0/gpio/EM4_WakeUp/SimplicityStudio/STKXXX_EFM32G_EM4_WakeUp.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3400A EFM32HG GPIO Conf" description="This project demonstrates how GPIO pin configuration, reading, and writing are performed. By default, LED0 is configured to be driven with the default drive strength. When the PB0 button is pressed, the EFM32 will change the drive strength of LED0 to its lowest value.  Default and alternate drive strength are derivative-specific; check the datasheet for the device in question for drive strength options. ">
+  <descriptors label="Platform - SLSTK3400A EFM32HG GPIO CONF" description="This project demonstrates how GPIO pin configuration, reading, and writing are performed. By default, LED0 is configured to be driven with the default drive strength. When the PB0 button is pressed, the EFM32 will change the drive strength of LED0 to its lowest value.  Default and alternate drive strength are derivative-specific; check the datasheet for the device in question for drive strength options. ">
     <properties key="core.boardCompatibility" value="brd2012a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.hg.*"/>
     <properties key="defaultName" value="SLSTK3400A_EFM32HG_gpio_conf"/>
@@ -1700,7 +1700,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series0/gpio/gpio_conf/SimplicityStudio/SLSTK3400A_EFM32HG_gpio_conf.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - STK3200 EFM32ZG GPIO Conf" description="This project demonstrates how GPIO pin configuration, reading, and writing are performed. By default, LED0 is configured to be driven with the default drive strength. When the PB0 button is pressed, the EFM32 will change the drive strength of LED0 to its lowest value.  Default and alternate drive strength are derivative-specific; check the datasheet for the device in question for drive strength options. ">
+  <descriptors label="Platform - STK3200 EFM32ZG GPIO CONF" description="This project demonstrates how GPIO pin configuration, reading, and writing are performed. By default, LED0 is configured to be driven with the default drive strength. When the PB0 button is pressed, the EFM32 will change the drive strength of LED0 to its lowest value.  Default and alternate drive strength are derivative-specific; check the datasheet for the device in question for drive strength options. ">
     <properties key="core.boardCompatibility" value="brd2010a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.zg.*"/>
     <properties key="defaultName" value="STK3200_EFM32ZG_gpio_conf"/>
@@ -1709,7 +1709,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series0/gpio/gpio_conf/SimplicityStudio/STK3200_EFM32ZG_gpio_conf.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - STK3300 EFM32TG GPIO Conf" description="This project demonstrates how GPIO pin configuration, reading, and writing are performed. By default, LED0 is configured to be driven with the default drive strength. When the PB0 button is pressed, the EFM32 will change the drive strength of LED0 to its lowest value.  Default and alternate drive strength are derivative-specific; check the datasheet for the device in question for drive strength options. ">
+  <descriptors label="Platform - STK3300 EFM32TG GPIO CONF" description="This project demonstrates how GPIO pin configuration, reading, and writing are performed. By default, LED0 is configured to be driven with the default drive strength. When the PB0 button is pressed, the EFM32 will change the drive strength of LED0 to its lowest value.  Default and alternate drive strength are derivative-specific; check the datasheet for the device in question for drive strength options. ">
     <properties key="core.boardCompatibility" value="brd2100a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.tg.*"/>
     <properties key="defaultName" value="STK3300_EFM32TG_gpio_conf"/>
@@ -1718,7 +1718,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series0/gpio/gpio_conf/SimplicityStudio/STK3300_EFM32TG_gpio_conf.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - STK3600 EFM32LG GPIO Conf" description="This project demonstrates how GPIO pin configuration, reading, and writing are performed. By default, LED0 is configured to be driven with the default drive strength. When the PB0 button is pressed, the EFM32 will change the drive strength of LED0 to its lowest value.  Default and alternate drive strength are derivative-specific; check the datasheet for the device in question for drive strength options. ">
+  <descriptors label="Platform - STK3600 EFM32LG GPIO CONF" description="This project demonstrates how GPIO pin configuration, reading, and writing are performed. By default, LED0 is configured to be driven with the default drive strength. When the PB0 button is pressed, the EFM32 will change the drive strength of LED0 to its lowest value.  Default and alternate drive strength are derivative-specific; check the datasheet for the device in question for drive strength options. ">
     <properties key="core.boardCompatibility" value="brd2201a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.lg.*"/>
     <properties key="defaultName" value="STK3600_EFM32LG_gpio_conf"/>
@@ -1727,7 +1727,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series0/gpio/gpio_conf/SimplicityStudio/STK3600_EFM32LG_gpio_conf.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - STK3700 EFM32GG GPIO Conf" description="This project demonstrates how GPIO pin configuration, reading, and writing are performed. By default, LED0 is configured to be driven with the default drive strength. When the PB0 button is pressed, the EFM32 will change the drive strength of LED0 to its lowest value.  Default and alternate drive strength are derivative-specific; check the datasheet for the device in question for drive strength options. ">
+  <descriptors label="Platform - STK3700 EFM32GG GPIO CONF" description="This project demonstrates how GPIO pin configuration, reading, and writing are performed. By default, LED0 is configured to be driven with the default drive strength. When the PB0 button is pressed, the EFM32 will change the drive strength of LED0 to its lowest value.  Default and alternate drive strength are derivative-specific; check the datasheet for the device in question for drive strength options. ">
     <properties key="core.boardCompatibility" value="brd2200a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.gg.*"/>
     <properties key="defaultName" value="STK3700_EFM32GG_gpio_conf"/>
@@ -1736,7 +1736,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series0/gpio/gpio_conf/SimplicityStudio/STK3700_EFM32GG_gpio_conf.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - STK3800 EFM32WG GPIO Conf" description="This project demonstrates how GPIO pin configuration, reading, and writing are performed. By default, LED0 is configured to be driven with the default drive strength. When the PB0 button is pressed, the EFM32 will change the drive strength of LED0 to its lowest value.  Default and alternate drive strength are derivative-specific; check the datasheet for the device in question for drive strength options. ">
+  <descriptors label="Platform - STK3800 EFM32WG GPIO CONF" description="This project demonstrates how GPIO pin configuration, reading, and writing are performed. By default, LED0 is configured to be driven with the default drive strength. When the PB0 button is pressed, the EFM32 will change the drive strength of LED0 to its lowest value.  Default and alternate drive strength are derivative-specific; check the datasheet for the device in question for drive strength options. ">
     <properties key="core.boardCompatibility" value="brd2400a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.wg.*"/>
     <properties key="defaultName" value="STK3800_EFM32WG_gpio_conf"/>
@@ -1745,7 +1745,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series0/gpio/gpio_conf/SimplicityStudio/STK3800_EFM32WG_gpio_conf.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - STKXXX EFM32G GPIO Conf" description="This project demonstrates how GPIO pin configuration, reading, and writing are performed. By default, LED0 is configured to be driven with the default drive strength. When the PB0 button is pressed, the EFM32 will change the drive strength of LED0 to its lowest value.  Default and alternate drive strength are derivative-specific; check the datasheet for the device in question for drive strength options. ">
+  <descriptors label="Platform - STKXXX EFM32G GPIO CONF" description="This project demonstrates how GPIO pin configuration, reading, and writing are performed. By default, LED0 is configured to be driven with the default drive strength. When the PB0 button is pressed, the EFM32 will change the drive strength of LED0 to its lowest value.  Default and alternate drive strength are derivative-specific; check the datasheet for the device in question for drive strength options. ">
     <properties key="core.boardCompatibility" value="brd2001a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.g.*"/>
     <properties key="defaultName" value="STKXXX_EFM32G_gpio_conf"/>
@@ -21041,7 +21041,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series2/euart/euart_ldma/SimplicityStudio/BRD4182A_EFR32xG22_euart_dma.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4181A EFR32MG21 GPIO Conf" description="This project demonstrates a user how to set a simple digital input and digital output. Button PB0 on the WSTK is an input. LED0 is the output.  When button 0 is pressed, LED0 will be on. ">
+  <descriptors label="Platform - BRD4181A EFR32MG21 GPIO CONF" description="This project demonstrates a user how to set a simple digital input and digital output. Button PB0 on the WSTK is an input. LED0 is the output.  When button 0 is pressed, LED0 will be on. ">
     <properties key="core.boardCompatibility" value="brd4181a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
     <properties key="defaultName" value="BRD4181A_EFR32MG21_gpio_conf"/>
@@ -21050,7 +21050,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series2/gpio/gpio_conf/SimplicityStudio/BRD4181A_EFR32MG21_gpio_conf.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4182A EFR32MG22 GPIO Conf" description="This project demonstrates a user how to set a simple digital input and digital output. Button PB0 on the WSTK is an input. LED0 is the output.  When button 0 is pressed, LED0 will be on. ">
+  <descriptors label="Platform - BRD4182A EFR32MG22 GPIO CONF" description="This project demonstrates a user how to set a simple digital input and digital output. Button PB0 on the WSTK is an input. LED0 is the output.  When button 0 is pressed, LED0 will be on. ">
     <properties key="core.boardCompatibility" value="brd4182a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg22.*"/>
     <properties key="defaultName" value="BRD4182A_EFR32MG22_gpio_conf"/>
