@@ -1754,7 +1754,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series0/gpio/gpio_conf/SimplicityStudio/STKXXX_EFM32G_gpio_conf.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3400A EFM32HG GPIO Periph" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - SLSTK3400A EFM32HG GPIO PERIPH" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd2012a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.hg.*"/>
     <properties key="defaultName" value="SLSTK3400A_EFM32HG_gpio_periph"/>
@@ -1763,7 +1763,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series0/gpio/gpio_periph/SimplicityStudio/SLSTK3400A_EFM32HG_gpio_periph.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - STK3200 EFM32ZG GPIO Periph" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - STK3200 EFM32ZG GPIO PERIPH" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd2010a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.zg.*"/>
     <properties key="defaultName" value="STK3200_EFM32ZG_gpio_periph"/>
@@ -1772,7 +1772,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series0/gpio/gpio_periph/SimplicityStudio/STK3200_EFM32ZG_gpio_periph.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - STK3300 EFM32TG GPIO Periph" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - STK3300 EFM32TG GPIO PERIPH" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd2100a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.tg.*"/>
     <properties key="defaultName" value="STK3300_EFM32TG_gpio_periph"/>
@@ -1781,7 +1781,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series0/gpio/gpio_periph/SimplicityStudio/STK3300_EFM32TG_gpio_periph.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - STK3600 EFM32LG GPIO Periph" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - STK3600 EFM32LG GPIO PERIPH" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd2201a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.lg.*"/>
     <properties key="defaultName" value="STK3600_EFM32LG_gpio_periph"/>
@@ -1790,7 +1790,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series0/gpio/gpio_periph/SimplicityStudio/STK3600_EFM32LG_gpio_periph.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - STK3700 EFM32GG GPIO Periph" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - STK3700 EFM32GG GPIO PERIPH" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd2200a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.gg.*"/>
     <properties key="defaultName" value="STK3700_EFM32GG_gpio_periph"/>
@@ -1799,7 +1799,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series0/gpio/gpio_periph/SimplicityStudio/STK3700_EFM32GG_gpio_periph.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - STK3800 EFM32WG GPIO Periph" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - STK3800 EFM32WG GPIO PERIPH" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd2400a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.wg.*"/>
     <properties key="defaultName" value="STK3800_EFM32WG_gpio_periph"/>
@@ -1808,7 +1808,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series0/gpio/gpio_periph/SimplicityStudio/STK3800_EFM32WG_gpio_periph.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - STKXXX EFM32G GPIO Periph" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - STKXXX EFM32G GPIO PERIPH" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd2001a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.g.*"/>
     <properties key="defaultName" value="STKXXX_EFM32G_gpio_periph"/>
@@ -7199,7 +7199,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/adc/adc_single_prs_gpio_dma/SimplicityStudio/SLSTK3701A_EFM32GG11B_adc_single_prs_gpio_dma.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4100A EFR32BG1 HFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4100A EFR32BG1 HFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4100a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg1.*"/>
     <properties key="defaultName" value="BRD4100A_EFR32BG1_hfrco_cal_interrupt"/>
@@ -7208,7 +7208,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_interrupt/SimplicityStudio/BRD4100A_EFR32BG1_hfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4103A EFR32BG12 HFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4103A EFR32BG12 HFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4103a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg12.*"/>
     <properties key="defaultName" value="BRD4103A_EFR32BG12_hfrco_cal_interrupt"/>
@@ -7217,7 +7217,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_interrupt/SimplicityStudio/BRD4103A_EFR32BG12_hfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4104A EFR32BG13 HFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4104A EFR32BG13 HFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4104a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg13.*"/>
     <properties key="defaultName" value="BRD4104A_EFR32BG13_hfrco_cal_interrupt"/>
@@ -7226,7 +7226,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_interrupt/SimplicityStudio/BRD4104A_EFR32BG13_hfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4151A EFR32MG1 HFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4151A EFR32MG1 HFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4151a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg1.*"/>
     <properties key="defaultName" value="BRD4151A_EFR32MG1_hfrco_cal_interrupt"/>
@@ -7235,7 +7235,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_interrupt/SimplicityStudio/BRD4151A_EFR32MG1_hfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4158A EFR32MG13 HFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4158A EFR32MG13 HFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4158a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg13.*"/>
     <properties key="defaultName" value="BRD4158A_EFR32MG13_hfrco_cal_interrupt"/>
@@ -7244,7 +7244,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_interrupt/SimplicityStudio/BRD4158A_EFR32MG13_hfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4162A EFR32MG12 HFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4162A EFR32MG12 HFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4162a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg12.*"/>
     <properties key="defaultName" value="BRD4162A_EFR32MG12_hfrco_cal_interrupt"/>
@@ -7253,7 +7253,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_interrupt/SimplicityStudio/BRD4162A_EFR32MG12_hfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4250A EFR32FG1 HFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4250A EFR32FG1 HFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4250a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg1.*"/>
     <properties key="defaultName" value="BRD4250A_EFR32FG1_hfrco_cal_interrupt"/>
@@ -7262,7 +7262,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_interrupt/SimplicityStudio/BRD4250A_EFR32FG1_hfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4253A EFR32FG12 HFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4253A EFR32FG12 HFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4253a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg12.*"/>
     <properties key="defaultName" value="BRD4253A_EFR32FG12_hfrco_cal_interrupt"/>
@@ -7271,7 +7271,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_interrupt/SimplicityStudio/BRD4253A_EFR32FG12_hfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4255A EFR32FG13 HFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4255A EFR32FG13 HFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4255a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg13.*"/>
     <properties key="defaultName" value="BRD4255A_EFR32FG13_hfrco_cal_interrupt"/>
@@ -7280,7 +7280,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_interrupt/SimplicityStudio/BRD4255A_EFR32FG13_hfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4257A EFR32FG14 HFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4257A EFR32FG14 HFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4257a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg14.*"/>
     <properties key="defaultName" value="BRD4257A_EFR32FG14_hfrco_cal_interrupt"/>
@@ -7289,7 +7289,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_interrupt/SimplicityStudio/BRD4257A_EFR32FG14_hfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4300A BGM111 HFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4300A BGM111 HFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4300a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg1.*"/>
     <properties key="defaultName" value="BRD4300A_BGM111_hfrco_cal_interrupt"/>
@@ -7298,7 +7298,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_interrupt/SimplicityStudio/BRD4300A_BGM111_hfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4301A BGM113 HFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4301A BGM113 HFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4301a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg1.*"/>
     <properties key="defaultName" value="BRD4301A_BGM113_hfrco_cal_interrupt"/>
@@ -7307,7 +7307,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_interrupt/SimplicityStudio/BRD4301A_BGM113_hfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4302A BGM121 HFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4302A BGM121 HFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4302a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg1.*"/>
     <properties key="defaultName" value="BRD4302A_BGM121_hfrco_cal_interrupt"/>
@@ -7316,7 +7316,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_interrupt/SimplicityStudio/BRD4302A_BGM121_hfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4306B BGM13 HFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4306B BGM13 HFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4306b"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bgm13.*"/>
     <properties key="defaultName" value="BRD4306B_BGM13_hfrco_cal_interrupt"/>
@@ -7325,7 +7325,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_interrupt/SimplicityStudio/BRD4306B_BGM13_hfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3301A EFM32TG11 HFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - SLSTK3301A EFM32TG11 HFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd2102a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.tg11.*"/>
     <properties key="defaultName" value="SLSTK3301A_EFM32TG11_hfrco_cal_interrupt"/>
@@ -7334,7 +7334,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_interrupt/SimplicityStudio/SLSTK3301A_EFM32TG11_hfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3401A EFM32PG1 HFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - SLSTK3401A EFM32PG1 HFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd2500a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.pg1.*"/>
     <properties key="defaultName" value="SLSTK3401A_EFM32PG1_hfrco_cal_interrupt"/>
@@ -7343,7 +7343,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_interrupt/SimplicityStudio/SLSTK3401A_EFM32PG1_hfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3402A EFM32PG12 HFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - SLSTK3402A EFM32PG12 HFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd2501a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.pg12.*"/>
     <properties key="defaultName" value="SLSTK3402A_EFM32PG12_hfrco_cal_interrupt"/>
@@ -7352,7 +7352,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_interrupt/SimplicityStudio/SLSTK3402A_EFM32PG12_hfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3701A EFM32GG11 HFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - SLSTK3701A EFM32GG11 HFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd2204a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.gg11.*"/>
     <properties key="defaultName" value="SLSTK3701A_EFM32GG11_hfrco_cal_interrupt"/>
@@ -7361,7 +7361,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_interrupt/SimplicityStudio/SLSTK3701A_EFM32GG11_hfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4100A EFR32BG1 HFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4100A EFR32BG1 HFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4100a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg1.*"/>
     <properties key="defaultName" value="BRD4100A_EFR32BG1_hfrco_cal_polled"/>
@@ -7370,7 +7370,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_polled/SimplicityStudio/BRD4100A_EFR32BG1_hfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4103A EFR32BG12 HFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4103A EFR32BG12 HFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4103a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg12.*"/>
     <properties key="defaultName" value="BRD4103A_EFR32BG12_hfrco_cal_polled"/>
@@ -7379,7 +7379,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_polled/SimplicityStudio/BRD4103A_EFR32BG12_hfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4104A EFR32BG13 HFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4104A EFR32BG13 HFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4104a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg13.*"/>
     <properties key="defaultName" value="BRD4104A_EFR32BG13_hfrco_cal_polled"/>
@@ -7388,7 +7388,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_polled/SimplicityStudio/BRD4104A_EFR32BG13_hfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4151A EFR32MG1 HFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4151A EFR32MG1 HFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4151a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg1.*"/>
     <properties key="defaultName" value="BRD4151A_EFR32MG1_hfrco_cal_polled"/>
@@ -7397,7 +7397,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_polled/SimplicityStudio/BRD4151A_EFR32MG1_hfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4158A EFR32MG13 HFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4158A EFR32MG13 HFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4158a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg13.*"/>
     <properties key="defaultName" value="BRD4158A_EFR32MG13_hfrco_cal_polled"/>
@@ -7406,7 +7406,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_polled/SimplicityStudio/BRD4158A_EFR32MG13_hfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4162A EFR32MG12 HFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4162A EFR32MG12 HFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4162a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg12.*"/>
     <properties key="defaultName" value="BRD4162A_EFR32MG12_hfrco_cal_polled"/>
@@ -7415,7 +7415,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_polled/SimplicityStudio/BRD4162A_EFR32MG12_hfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4250A EFR32FG1 HFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4250A EFR32FG1 HFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4250a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg1.*"/>
     <properties key="defaultName" value="BRD4250A_EFR32FG1_hfrco_cal_polled"/>
@@ -7424,7 +7424,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_polled/SimplicityStudio/BRD4250A_EFR32FG1_hfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4253A EFR32FG12 HFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4253A EFR32FG12 HFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4253a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg12.*"/>
     <properties key="defaultName" value="BRD4253A_EFR32FG12_hfrco_cal_polled"/>
@@ -7433,7 +7433,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_polled/SimplicityStudio/BRD4253A_EFR32FG12_hfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4255A EFR32FG13 HFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4255A EFR32FG13 HFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4255a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg13.*"/>
     <properties key="defaultName" value="BRD4255A_EFR32FG13_hfrco_cal_polled"/>
@@ -7442,7 +7442,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_polled/SimplicityStudio/BRD4255A_EFR32FG13_hfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4257A EFR32FG14 HFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4257A EFR32FG14 HFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4257a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg14.*"/>
     <properties key="defaultName" value="BRD4257A_EFR32FG14_hfrco_cal_polled"/>
@@ -7451,7 +7451,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_polled/SimplicityStudio/BRD4257A_EFR32FG14_hfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4300A BGM111 HFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4300A BGM111 HFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4300a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg1.*"/>
     <properties key="defaultName" value="BRD4300A_BGM111_hfrco_cal_polled"/>
@@ -7460,7 +7460,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_polled/SimplicityStudio/BRD4300A_BGM111_hfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4301A BGM113 HFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4301A BGM113 HFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4301a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg1.*"/>
     <properties key="defaultName" value="BRD4301A_BGM113_hfrco_cal_polled"/>
@@ -7469,7 +7469,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_polled/SimplicityStudio/BRD4301A_BGM113_hfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4302A BGM121 HFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4302A BGM121 HFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4302a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg1.*"/>
     <properties key="defaultName" value="BRD4302A_BGM121_hfrco_cal_polled"/>
@@ -7478,7 +7478,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_polled/SimplicityStudio/BRD4302A_BGM121_hfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4306B BGM13 HFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4306B BGM13 HFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4306b"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bgm13.*"/>
     <properties key="defaultName" value="BRD4306B_BGM13_hfrco_cal_polled"/>
@@ -7487,7 +7487,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_polled/SimplicityStudio/BRD4306B_BGM13_hfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3301A EFM32TG11 HFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - SLSTK3301A EFM32TG11 HFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd2102a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.tg11.*"/>
     <properties key="defaultName" value="SLSTK3301A_EFM32TG11_hfrco_cal_polled"/>
@@ -7496,7 +7496,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_polled/SimplicityStudio/SLSTK3301A_EFM32TG11_hfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3401A EFM32PG1 HFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - SLSTK3401A EFM32PG1 HFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd2500a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.pg1.*"/>
     <properties key="defaultName" value="SLSTK3401A_EFM32PG1_hfrco_cal_polled"/>
@@ -7505,7 +7505,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_polled/SimplicityStudio/SLSTK3401A_EFM32PG1_hfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3402A EFM32PG12 HFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - SLSTK3402A EFM32PG12 HFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd2501a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.pg12.*"/>
     <properties key="defaultName" value="SLSTK3402A_EFM32PG12_hfrco_cal_polled"/>
@@ -7514,7 +7514,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_polled/SimplicityStudio/SLSTK3402A_EFM32PG12_hfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3701A EFM32GG11 HFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - SLSTK3701A EFM32GG11 HFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified HFRCO is output to a pin where it can be observed.  The CRYOTIMER is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd2204a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.gg11.*"/>
     <properties key="defaultName" value="SLSTK3701A_EFM32GG11_hfrco_cal_polled"/>
@@ -7523,7 +7523,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/hfrco_cal_polled/SimplicityStudio/SLSTK3701A_EFM32GG11_hfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4100A EFR32BG1 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - BRD4100A EFR32BG1 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd4100a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg1.*"/>
     <properties key="defaultName" value="BRD4100A_EFR32BG1_lfrco_cal_interrupt"/>
@@ -7532,7 +7532,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_interrupt/SimplicityStudio/BRD4100A_EFR32BG1_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4103A EFR32BG12 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - BRD4103A EFR32BG12 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd4103a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg12.*"/>
     <properties key="defaultName" value="BRD4103A_EFR32BG12_lfrco_cal_interrupt"/>
@@ -7541,7 +7541,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_interrupt/SimplicityStudio/BRD4103A_EFR32BG12_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4104A EFR32BG13 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - BRD4104A EFR32BG13 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd4104a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg13.*"/>
     <properties key="defaultName" value="BRD4104A_EFR32BG13_lfrco_cal_interrupt"/>
@@ -7550,7 +7550,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_interrupt/SimplicityStudio/BRD4104A_EFR32BG13_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4151A EFR32MG1 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - BRD4151A EFR32MG1 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd4151a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg1.*"/>
     <properties key="defaultName" value="BRD4151A_EFR32MG1_lfrco_cal_interrupt"/>
@@ -7559,7 +7559,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_interrupt/SimplicityStudio/BRD4151A_EFR32MG1_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4158A EFR32MG13 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - BRD4158A EFR32MG13 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd4158a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg13.*"/>
     <properties key="defaultName" value="BRD4158A_EFR32MG13_lfrco_cal_interrupt"/>
@@ -7568,7 +7568,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_interrupt/SimplicityStudio/BRD4158A_EFR32MG13_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4162A EFR32MG12 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - BRD4162A EFR32MG12 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd4162a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg12.*"/>
     <properties key="defaultName" value="BRD4162A_EFR32MG12_lfrco_cal_interrupt"/>
@@ -7577,7 +7577,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_interrupt/SimplicityStudio/BRD4162A_EFR32MG12_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4250A EFR32FG1 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - BRD4250A EFR32FG1 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd4250a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg1.*"/>
     <properties key="defaultName" value="BRD4250A_EFR32FG1_lfrco_cal_interrupt"/>
@@ -7586,7 +7586,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_interrupt/SimplicityStudio/BRD4250A_EFR32FG1_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4253A EFR32FG12 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - BRD4253A EFR32FG12 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd4253a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg12.*"/>
     <properties key="defaultName" value="BRD4253A_EFR32FG12_lfrco_cal_interrupt"/>
@@ -7595,7 +7595,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_interrupt/SimplicityStudio/BRD4253A_EFR32FG12_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4255A EFR32FG13 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - BRD4255A EFR32FG13 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd4255a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg13.*"/>
     <properties key="defaultName" value="BRD4255A_EFR32FG13_lfrco_cal_interrupt"/>
@@ -7604,7 +7604,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_interrupt/SimplicityStudio/BRD4255A_EFR32FG13_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4257A EFR32FG14 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - BRD4257A EFR32FG14 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd4257a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg14.*"/>
     <properties key="defaultName" value="BRD4257A_EFR32FG14_lfrco_cal_interrupt"/>
@@ -7613,7 +7613,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_interrupt/SimplicityStudio/BRD4257A_EFR32FG14_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4300A BGM111 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - BRD4300A BGM111 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd4300a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg1.*"/>
     <properties key="defaultName" value="BRD4300A_BGM111_lfrco_cal_interrupt"/>
@@ -7622,7 +7622,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_interrupt/SimplicityStudio/BRD4300A_BGM111_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4301A BGM113 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - BRD4301A BGM113 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd4301a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg1.*"/>
     <properties key="defaultName" value="BRD4301A_BGM113_lfrco_cal_interrupt"/>
@@ -7631,7 +7631,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_interrupt/SimplicityStudio/BRD4301A_BGM113_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4302A BGM121 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - BRD4302A BGM121 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd4302a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg1.*"/>
     <properties key="defaultName" value="BRD4302A_BGM121_lfrco_cal_interrupt"/>
@@ -7640,7 +7640,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_interrupt/SimplicityStudio/BRD4302A_BGM121_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4306B BGM13 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - BRD4306B BGM13 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd4306b"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bgm13.*"/>
     <properties key="defaultName" value="BRD4306B_BGM13_lfrco_cal_interrupt"/>
@@ -7649,7 +7649,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_interrupt/SimplicityStudio/BRD4306B_BGM13_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3301A EFM32TG11 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - SLSTK3301A EFM32TG11 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd2102a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.tg11.*"/>
     <properties key="defaultName" value="SLSTK3301A_EFM32TG11_lfrco_cal_interrupt"/>
@@ -7658,7 +7658,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_interrupt/SimplicityStudio/SLSTK3301A_EFM32TG11_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3401A EFM32PG1 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - SLSTK3401A EFM32PG1 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd2500a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.pg1.*"/>
     <properties key="defaultName" value="SLSTK3401A_EFM32PG1_lfrco_cal_interrupt"/>
@@ -7667,7 +7667,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_interrupt/SimplicityStudio/SLSTK3401A_EFM32PG1_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3402A EFM32PG12 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - SLSTK3402A EFM32PG12 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd2501a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.pg12.*"/>
     <properties key="defaultName" value="SLSTK3402A_EFM32PG12_lfrco_cal_interrupt"/>
@@ -7676,7 +7676,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_interrupt/SimplicityStudio/SLSTK3402A_EFM32PG12_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3701A EFM32GG11 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - SLSTK3701A EFM32GG11 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd2204a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.gg11.*"/>
     <properties key="defaultName" value="SLSTK3701A_EFM32GG11_lfrco_cal_interrupt"/>
@@ -7685,7 +7685,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_interrupt/SimplicityStudio/SLSTK3701A_EFM32GG11_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4100A EFR32BG1 LFRCO Cal Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
+  <descriptors label="Platform - BRD4100A EFR32BG1 LFRCO CAL Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
     <properties key="core.boardCompatibility" value="brd4100a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg1.*"/>
     <properties key="defaultName" value="BRD4100A_EFR32BG1_lfrco_cal_polled"/>
@@ -7694,7 +7694,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_polled/SimplicityStudio/BRD4100A_EFR32BG1_lfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4103A EFR32BG12 LFRCO Cal Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
+  <descriptors label="Platform - BRD4103A EFR32BG12 LFRCO CAL Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
     <properties key="core.boardCompatibility" value="brd4103a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg12.*"/>
     <properties key="defaultName" value="BRD4103A_EFR32BG12_lfrco_cal_polled"/>
@@ -7703,7 +7703,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_polled/SimplicityStudio/BRD4103A_EFR32BG12_lfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4104A EFR32BG13 LFRCO Cal Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
+  <descriptors label="Platform - BRD4104A EFR32BG13 LFRCO CAL Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
     <properties key="core.boardCompatibility" value="brd4104a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg13.*"/>
     <properties key="defaultName" value="BRD4104A_EFR32BG13_lfrco_cal_polled"/>
@@ -7712,7 +7712,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_polled/SimplicityStudio/BRD4104A_EFR32BG13_lfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4151A EFR32MG1 LFRCO Cal Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
+  <descriptors label="Platform - BRD4151A EFR32MG1 LFRCO CAL Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
     <properties key="core.boardCompatibility" value="brd4151a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg1.*"/>
     <properties key="defaultName" value="BRD4151A_EFR32MG1_lfrco_cal_polled"/>
@@ -7721,7 +7721,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_polled/SimplicityStudio/BRD4151A_EFR32MG1_lfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4158A EFR32MG13 LFRCO Cal Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
+  <descriptors label="Platform - BRD4158A EFR32MG13 LFRCO CAL Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
     <properties key="core.boardCompatibility" value="brd4158a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg13.*"/>
     <properties key="defaultName" value="BRD4158A_EFR32MG13_lfrco_cal_polled"/>
@@ -7730,7 +7730,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_polled/SimplicityStudio/BRD4158A_EFR32MG13_lfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4162A EFR32MG12 LFRCO Cal Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
+  <descriptors label="Platform - BRD4162A EFR32MG12 LFRCO CAL Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
     <properties key="core.boardCompatibility" value="brd4162a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg12.*"/>
     <properties key="defaultName" value="BRD4162A_EFR32MG12_lfrco_cal_polled"/>
@@ -7739,7 +7739,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_polled/SimplicityStudio/BRD4162A_EFR32MG12_lfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4250A EFR32FG1 LFRCO Cal Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
+  <descriptors label="Platform - BRD4250A EFR32FG1 LFRCO CAL Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
     <properties key="core.boardCompatibility" value="brd4250a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg1.*"/>
     <properties key="defaultName" value="BRD4250A_EFR32FG1_lfrco_cal_polled"/>
@@ -7748,7 +7748,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_polled/SimplicityStudio/BRD4250A_EFR32FG1_lfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4253A EFR32FG12 LFRCO Cal Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
+  <descriptors label="Platform - BRD4253A EFR32FG12 LFRCO CAL Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
     <properties key="core.boardCompatibility" value="brd4253a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg12.*"/>
     <properties key="defaultName" value="BRD4253A_EFR32FG12_lfrco_cal_polled"/>
@@ -7757,7 +7757,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_polled/SimplicityStudio/BRD4253A_EFR32FG12_lfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4255A EFR32FG13 LFRCO Cal Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
+  <descriptors label="Platform - BRD4255A EFR32FG13 LFRCO CAL Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
     <properties key="core.boardCompatibility" value="brd4255a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg13.*"/>
     <properties key="defaultName" value="BRD4255A_EFR32FG13_lfrco_cal_polled"/>
@@ -7766,7 +7766,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_polled/SimplicityStudio/BRD4255A_EFR32FG13_lfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4257A EFR32FG14 LFRCO Cal Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
+  <descriptors label="Platform - BRD4257A EFR32FG14 LFRCO CAL Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
     <properties key="core.boardCompatibility" value="brd4257a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg14.*"/>
     <properties key="defaultName" value="BRD4257A_EFR32FG14_lfrco_cal_polled"/>
@@ -7775,7 +7775,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_polled/SimplicityStudio/BRD4257A_EFR32FG14_lfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4300A BGM111 LFRCO Cal Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
+  <descriptors label="Platform - BRD4300A BGM111 LFRCO CAL Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
     <properties key="core.boardCompatibility" value="brd4300a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg1.*"/>
     <properties key="defaultName" value="BRD4300A_BGM111_lfrco_cal_polled"/>
@@ -7784,7 +7784,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_polled/SimplicityStudio/BRD4300A_BGM111_lfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4301A BGM113 LFRCO Cal Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
+  <descriptors label="Platform - BRD4301A BGM113 LFRCO CAL Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
     <properties key="core.boardCompatibility" value="brd4301a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg1.*"/>
     <properties key="defaultName" value="BRD4301A_BGM113_lfrco_cal_polled"/>
@@ -7793,7 +7793,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_polled/SimplicityStudio/BRD4301A_BGM113_lfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4302A BGM121 LFRCO Cal Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
+  <descriptors label="Platform - BRD4302A BGM121 LFRCO CAL Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
     <properties key="core.boardCompatibility" value="brd4302a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg1.*"/>
     <properties key="defaultName" value="BRD4302A_BGM121_lfrco_cal_polled"/>
@@ -7802,7 +7802,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_polled/SimplicityStudio/BRD4302A_BGM121_lfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4306B BGM13 LFRCO Cal Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
+  <descriptors label="Platform - BRD4306B BGM13 LFRCO CAL Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
     <properties key="core.boardCompatibility" value="brd4306b"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bgm13.*"/>
     <properties key="defaultName" value="BRD4306B_BGM13_lfrco_cal_polled"/>
@@ -7811,7 +7811,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_polled/SimplicityStudio/BRD4306B_BGM13_lfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3301A EFM32TG11 LFRCO Cal Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
+  <descriptors label="Platform - SLSTK3301A EFM32TG11 LFRCO CAL Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
     <properties key="core.boardCompatibility" value="brd2102a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.tg11.*"/>
     <properties key="defaultName" value="SLSTK3301A_EFM32TG11_lfrco_cal_polled"/>
@@ -7820,7 +7820,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_polled/SimplicityStudio/SLSTK3301A_EFM32TG11_lfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3401A EFM32PG1 LFRCO Cal Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
+  <descriptors label="Platform - SLSTK3401A EFM32PG1 LFRCO CAL Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
     <properties key="core.boardCompatibility" value="brd2500a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.pg1.*"/>
     <properties key="defaultName" value="SLSTK3401A_EFM32PG1_lfrco_cal_polled"/>
@@ -7829,7 +7829,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_polled/SimplicityStudio/SLSTK3401A_EFM32PG1_lfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3402A EFM32PG12 LFRCO Cal Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
+  <descriptors label="Platform - SLSTK3402A EFM32PG12 LFRCO CAL Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
     <properties key="core.boardCompatibility" value="brd2501a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.pg12.*"/>
     <properties key="defaultName" value="SLSTK3402A_EFM32PG12_lfrco_cal_polled"/>
@@ -7838,7 +7838,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/cmu/lfrco_cal_polled/SimplicityStudio/SLSTK3402A_EFM32PG12_lfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3701A EFM32GG11 LFRCO Cal Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
+  <descriptors label="Platform - SLSTK3701A EFM32GG11 LFRCO CAL Polled" description="This project demonstrates calibration of the LFRCO against the HFXO. ">
     <properties key="core.boardCompatibility" value="brd2204a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.gg11.*"/>
     <properties key="defaultName" value="SLSTK3701A_EFM32GG11_lfrco_cal_polled"/>
@@ -9116,7 +9116,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/gpio/EM4_WakeUp/SimplicityStudio/SLSTK3701A_EFM32GG11_EM4_WakeUp.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4100A EFR32BG1P GPIO Periph BG1P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - BRD4100A EFR32BG1P GPIO PERIPH BG1P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd4100a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg1.*"/>
     <properties key="defaultName" value="BRD4100A_EFR32BG1P_gpio_periph_bg1p"/>
@@ -9125,7 +9125,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/gpio/gpio_periph/SimplicityStudio/BRD4100A_EFR32BG1P_gpio_periph_bg1p.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4103A EFR32BG12P GPIO Periph BG12P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - BRD4103A EFR32BG12P GPIO PERIPH BG12P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd4103a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg12.*"/>
     <properties key="defaultName" value="BRD4103A_EFR32BG12P_gpio_periph_bg12p"/>
@@ -9134,7 +9134,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/gpio/gpio_periph/SimplicityStudio/BRD4103A_EFR32BG12P_gpio_periph_bg12p.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4104A EFR32BG13P GPIO Periph BG13P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - BRD4104A EFR32BG13P GPIO PERIPH BG13P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd4104a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.bg13.*"/>
     <properties key="defaultName" value="BRD4104A_EFR32BG13P_gpio_periph_bg13p"/>
@@ -9143,7 +9143,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/gpio/gpio_periph/SimplicityStudio/BRD4104A_EFR32BG13P_gpio_periph_bg13p.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4151A EFR32MG1P GPIO Periph MG1P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - BRD4151A EFR32MG1P GPIO PERIPH MG1P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd4151a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg1.*"/>
     <properties key="defaultName" value="BRD4151A_EFR32MG1P_gpio_periph_mg1p"/>
@@ -9152,7 +9152,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/gpio/gpio_periph/SimplicityStudio/BRD4151A_EFR32MG1P_gpio_periph_mg1p.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4159A EFR32MG13P GPIO Periph MG13P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - BRD4159A EFR32MG13P GPIO PERIPH MG13P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd4159a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg13.*"/>
     <properties key="defaultName" value="BRD4159A_EFR32MG13P_gpio_periph_mg13p"/>
@@ -9161,7 +9161,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/gpio/gpio_periph/SimplicityStudio/BRD4159A_EFR32MG13P_gpio_periph_mg13p.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4161A EFR32MG12P GPIO Periph MG12P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - BRD4161A EFR32MG12P GPIO PERIPH MG12P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd4161a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg12.*"/>
     <properties key="defaultName" value="BRD4161A_EFR32MG12P_gpio_periph_mg12p"/>
@@ -9170,7 +9170,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/gpio/gpio_periph/SimplicityStudio/BRD4161A_EFR32MG12P_gpio_periph_mg12p.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4169B EFR32MG14P GPIO Periph MG14P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - BRD4169B EFR32MG14P GPIO PERIPH MG14P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd4169b"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg14.*"/>
     <properties key="defaultName" value="BRD4169B_EFR32MG14P_gpio_periph_mg14p"/>
@@ -9179,7 +9179,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/gpio/gpio_periph/SimplicityStudio/BRD4169B_EFR32MG14P_gpio_periph_mg14p.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4250A EFR32FG1P GPIO Periph FG1P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - BRD4250A EFR32FG1P GPIO PERIPH FG1P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd4250a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg1.*"/>
     <properties key="defaultName" value="BRD4250A_EFR32FG1P_gpio_periph_fg1p"/>
@@ -9188,7 +9188,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/gpio/gpio_periph/SimplicityStudio/BRD4250A_EFR32FG1P_gpio_periph_fg1p.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4253A EFR32FG12P GPIO Periph FG12P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - BRD4253A EFR32FG12P GPIO PERIPH FG12P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd4253a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg12.*"/>
     <properties key="defaultName" value="BRD4253A_EFR32FG12P_gpio_periph_fg12p"/>
@@ -9197,7 +9197,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/gpio/gpio_periph/SimplicityStudio/BRD4253A_EFR32FG12P_gpio_periph_fg12p.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4256A EFR32FG13P GPIO Periph FG13P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - BRD4256A EFR32FG13P GPIO PERIPH FG13P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd4256a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg13.*"/>
     <properties key="defaultName" value="BRD4256A_EFR32FG13P_gpio_periph_fg13p"/>
@@ -9206,7 +9206,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/gpio/gpio_periph/SimplicityStudio/BRD4256A_EFR32FG13P_gpio_periph_fg13p.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4257A EFR32FG14P GPIO Periph FG14P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - BRD4257A EFR32FG14P GPIO PERIPH FG14P" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd4257a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.fg14.*"/>
     <properties key="defaultName" value="BRD4257A_EFR32FG14P_gpio_periph_fg14p"/>
@@ -9215,7 +9215,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/gpio/gpio_periph/SimplicityStudio/BRD4257A_EFR32FG14P_gpio_periph_fg14p.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3301A EFM32TG11B GPIO Periph TG11B" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - SLSTK3301A EFM32TG11B GPIO PERIPH TG11B" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd2102a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.tg11.*"/>
     <properties key="defaultName" value="SLSTK3301A_EFM32TG11B_gpio_periph_tg11b"/>
@@ -9224,7 +9224,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/gpio/gpio_periph/SimplicityStudio/SLSTK3301A_EFM32TG11B_gpio_periph_tg11b.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3401A EFM32PG1B GPIO Periph PG1B" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - SLSTK3401A EFM32PG1B GPIO PERIPH PG1B" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd2500a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.pg1.*"/>
     <properties key="defaultName" value="SLSTK3401A_EFM32PG1B_gpio_periph_pg1b"/>
@@ -9233,7 +9233,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/gpio/gpio_periph/SimplicityStudio/SLSTK3401A_EFM32PG1B_gpio_periph_pg1b.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3402A EFM32PG12B GPIO Periph PG12B" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - SLSTK3402A EFM32PG12B GPIO PERIPH PG12B" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd2501a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.pg12.*"/>
     <properties key="defaultName" value="SLSTK3402A_EFM32PG12B_gpio_periph_pg12b"/>
@@ -9242,7 +9242,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series1/gpio/gpio_periph/SimplicityStudio/SLSTK3402A_EFM32PG12B_gpio_periph_pg12b.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - SLSTK3701A EFM32GG11B GPIO Periph GG11B" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
+  <descriptors label="Platform - SLSTK3701A EFM32GG11B GPIO PERIPH GG11B" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO. ">
     <properties key="core.boardCompatibility" value="brd2204a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.gg11.*"/>
     <properties key="defaultName" value="SLSTK3701A_EFM32GG11B_gpio_periph_gg11b"/>
@@ -20960,7 +20960,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series2/burtc/burtc_em4_buram/SimplicityStudio/BRD4182A_EFR32xG22_burtc_em4_buram.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4180A EFR32xG21 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - BRD4180A EFR32xG21 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd4180a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
     <properties key="defaultName" value="BRD4180A_EFR32xG21_lfrco_cal_interrupt"/>
@@ -20969,7 +20969,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series2/cmu/lfrco_cal_interrupt/SimplicityStudio/BRD4180A_EFR32xG21_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4181A EFR32xG21 LFRCO Cal Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
+  <descriptors label="Platform - BRD4181A EFR32xG21 LFRCO CAL Interrupt" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The calibration mechanism is setup, and a calibration run is started. ">
     <properties key="core.boardCompatibility" value="brd4181a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
     <properties key="defaultName" value="BRD4181A_EFR32xG21_lfrco_cal_interrupt"/>
@@ -20978,7 +20978,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series2/cmu/lfrco_cal_interrupt/SimplicityStudio/BRD4181A_EFR32xG21_lfrco_cal_interrupt.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4180A EFR32xG21 LFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The BURTC is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4180A EFR32xG21 LFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The BURTC is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4180a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
     <properties key="defaultName" value="BRD4180A_EFR32xG21_lfrco_cal_polled"/>
@@ -20987,7 +20987,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series2/cmu/lfrco_cal_polled/SimplicityStudio/BRD4180A_EFR32xG21_lfrco_cal_polled.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4181A EFR32xG21 LFRCO Cal Polled" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The BURTC is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
+  <descriptors label="Platform - BRD4181A EFR32xG21 LFRCO CAL Polled" description="The device is initialized for the board it is running on, and the qualified LFRCO is output to a pin where it can be observed.  The BURTC is setup to generate an interrupt every 16 seconds, and the device enters EM1 (so that the clock output remains active). ">
     <properties key="core.boardCompatibility" value="brd4181a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
     <properties key="defaultName" value="BRD4181A_EFR32xG21_lfrco_cal_polled"/>
@@ -21095,7 +21095,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series2/gpio/gpio_int/SimplicityStudio/BRD4182A_EFR32MG22_gpio_int.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4181A EFR32MG21 GPIO Periph" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO, and sets the slew rate and drive strength. ">
+  <descriptors label="Platform - BRD4181A EFR32MG21 GPIO PERIPH" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO, and sets the slew rate and drive strength. ">
     <properties key="core.boardCompatibility" value="brd4181a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
     <properties key="defaultName" value="BRD4181A_EFR32MG21_gpio_periph"/>
@@ -21104,7 +21104,7 @@
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
     <properties key="template.projectFilePaths" value="series2/gpio/gpio_periph/SimplicityStudio/BRD4181A_EFR32MG21_gpio_periph.slsproj"/>
   </descriptors>
-  <descriptors label="Platform - BRD4182A EFR32MG22 GPIO Periph" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO, and sets the slew rate and drive strength. ">
+  <descriptors label="Platform - BRD4182A EFR32MG22 GPIO PERIPH" description="This project demonstrates how to configure a GPIO pin to drive the output of the LFRCO, and sets the slew rate and drive strength. ">
     <properties key="core.boardCompatibility" value="brd4182a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg22.*"/>
     <properties key="defaultName" value="BRD4182A_EFR32MG22_gpio_periph"/>
